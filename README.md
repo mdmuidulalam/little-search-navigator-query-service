@@ -1,2 +1,2 @@
-# little-search-navigator-query-service
-Little Search Navigator Query Service will get the query data from the indexed data
+# Query Service of Little Search Navigator
+Query Service will get data from the index data with proper ranking calculation. It will try to provider most relevant data. 
